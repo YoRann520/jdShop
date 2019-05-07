@@ -1,0 +1,30 @@
+{
+    "data": {
+        "adv": "",
+        "productTheme": [
+            {
+                "title": "热门品牌",
+                "do": "",
+                "iconDel": "",
+                "iconMore": "",
+                "productInfo": [
+                    {
+                        "title": "小米",
+                        "imgUrl": "//img30.360buyimg.com/focus/s140x140_jfs/t13411/188/926813276/3945/a4f47292/5a1692eeN105a64b4.png",
+                        "productUrl": ""
+                    }
+                ]
+            },
+            {
+                "title": "手机通讯",
+                "productInfo": [
+                    {
+                        "title": "小米",
+                        "imgUrl": "//img12.360buyimg.com/focus/s140x140_jfs/t11461/339/2354953633/8254/8c8c50d3/5a169217N5d1b842e.jpg",
+                        "productUrl": ""
+                    }
+                ]
+        }
+    ]
+    }
+}
